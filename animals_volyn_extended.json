@@ -1,0 +1,1135 @@
+[
+    {
+        "species": "Вовк звичайний",
+        "scientific_name": "Canis lupus",
+        "region": "Волинська",
+        "habitat": "ліси",
+        "conservation_status": "Уразливий",
+        "population_estimate": 120,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Рись євразійська",
+        "scientific_name": "Lynx lynx",
+        "region": "Львівська",
+        "habitat": "густі ліси",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 40,
+        "protected_areas": [
+            "Національний парк «Сколівські Бескиди»"
+        ]
+    },
+    {
+        "species": "Зубр європейський",
+        "scientific_name": "Bison bonasus",
+        "region": "Рівненська",
+        "habitat": "широколистяні ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 85,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Бурий ведмідь",
+        "scientific_name": "Ursus arctos",
+        "region": "Житомирська",
+        "habitat": "тайга, мішані ліси",
+        "conservation_status": "Уразливий",
+        "population_estimate": 60,
+        "protected_areas": [
+            "Поліський природний заповідник"
+        ]
+    },
+    {
+        "species": "Видра річкова",
+        "scientific_name": "Lutra lutra",
+        "region": "Волинська",
+        "habitat": "річки, озера",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 250,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Орел-могильник",
+        "scientific_name": "Aquila heliaca",
+        "region": "Волинська",
+        "habitat": "степи, лісостепи",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 20,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Лелека чорний",
+        "scientific_name": "Ciconia nigra",
+        "region": "Рівненська",
+        "habitat": "болота, лісисті річки",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 30,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Гадюка звичайна",
+        "scientific_name": "Vipera berus",
+        "region": "Волинська",
+        "habitat": "ліси, болота",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 500,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Жерлянка червоночерева",
+        "scientific_name": "Bombina bombina",
+        "region": "Рівненська",
+        "habitat": "болота, озера",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 200,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Сом європейський",
+        "scientific_name": "Silurus glanis",
+        "region": "Волинська",
+        "habitat": "річки, озера",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1000,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Щука звичайна",
+        "scientific_name": "Esox lucius",
+        "region": "Волинська",
+        "habitat": "озера, повільні річки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 3000,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Жук-олень",
+        "scientific_name": "Lucanus cervus",
+        "region": "Волинська",
+        "habitat": "дубові ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 500,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Махаон",
+        "scientific_name": "Papilio machaon",
+        "region": "Волинська",
+        "habitat": "луки, ліси",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1500,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 1",
+        "scientific_name": "Animalus 1",
+        "region": "Волинська",
+        "habitat": "луки",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 3255,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 2",
+        "scientific_name": "Animalus 2",
+        "region": "Львівська",
+        "habitat": "ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 4483,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 3",
+        "scientific_name": "Animalus 3",
+        "region": "Житомирська",
+        "habitat": "болота",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 3639,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 4",
+        "scientific_name": "Animalus 4",
+        "region": "Житомирська",
+        "habitat": "болота",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 1155,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 5",
+        "scientific_name": "Animalus 5",
+        "region": "Львівська",
+        "habitat": "болота",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1344,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 6",
+        "scientific_name": "Animalus 6",
+        "region": "Львівська",
+        "habitat": "луки",
+        "conservation_status": "Уразливий",
+        "population_estimate": 1444,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 7",
+        "scientific_name": "Animalus 7",
+        "region": "Житомирська",
+        "habitat": "степи",
+        "conservation_status": "Уразливий",
+        "population_estimate": 1026,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 8",
+        "scientific_name": "Animalus 8",
+        "region": "Житомирська",
+        "habitat": "болота",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 1124,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 9",
+        "scientific_name": "Animalus 9",
+        "region": "Житомирська",
+        "habitat": "озера",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 2344,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 10",
+        "scientific_name": "Animalus 10",
+        "region": "Житомирська",
+        "habitat": "луки",
+        "conservation_status": "Уразливий",
+        "population_estimate": 1588,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 11",
+        "scientific_name": "Animalus 11",
+        "region": "Волинська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 4346,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 12",
+        "scientific_name": "Animalus 12",
+        "region": "Львівська",
+        "habitat": "луки",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 26,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 13",
+        "scientific_name": "Animalus 13",
+        "region": "Львівська",
+        "habitat": "луки",
+        "conservation_status": "Уразливий",
+        "population_estimate": 1506,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 14",
+        "scientific_name": "Animalus 14",
+        "region": "Волинська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 1788,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 15",
+        "scientific_name": "Animalus 15",
+        "region": "Волинська",
+        "habitat": "степи",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 2448,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 16",
+        "scientific_name": "Animalus 16",
+        "region": "Житомирська",
+        "habitat": "ліси",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1138,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 17",
+        "scientific_name": "Animalus 17",
+        "region": "Рівненська",
+        "habitat": "луки",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 1229,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 18",
+        "scientific_name": "Animalus 18",
+        "region": "Львівська",
+        "habitat": "степи",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 4321,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 19",
+        "scientific_name": "Animalus 19",
+        "region": "Львівська",
+        "habitat": "степи",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 1297,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 20",
+        "scientific_name": "Animalus 20",
+        "region": "Житомирська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 1100,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 21",
+        "scientific_name": "Animalus 21",
+        "region": "Волинська",
+        "habitat": "степи",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 1159,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 22",
+        "scientific_name": "Animalus 22",
+        "region": "Житомирська",
+        "habitat": "луки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 820,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 23",
+        "scientific_name": "Animalus 23",
+        "region": "Житомирська",
+        "habitat": "степи",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1141,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 24",
+        "scientific_name": "Animalus 24",
+        "region": "Рівненська",
+        "habitat": "луки",
+        "conservation_status": "Уразливий",
+        "population_estimate": 2348,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 25",
+        "scientific_name": "Animalus 25",
+        "region": "Волинська",
+        "habitat": "луки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 3973,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 26",
+        "scientific_name": "Animalus 26",
+        "region": "Рівненська",
+        "habitat": "озера",
+        "conservation_status": "Уразливий",
+        "population_estimate": 4227,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 27",
+        "scientific_name": "Animalus 27",
+        "region": "Львівська",
+        "habitat": "степи",
+        "conservation_status": "Уразливий",
+        "population_estimate": 2882,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 28",
+        "scientific_name": "Animalus 28",
+        "region": "Рівненська",
+        "habitat": "луки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 4750,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 29",
+        "scientific_name": "Animalus 29",
+        "region": "Рівненська",
+        "habitat": "болота",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 2440,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 30",
+        "scientific_name": "Animalus 30",
+        "region": "Львівська",
+        "habitat": "ліси",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 610,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 31",
+        "scientific_name": "Animalus 31",
+        "region": "Львівська",
+        "habitat": "луки",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 1430,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 32",
+        "scientific_name": "Animalus 32",
+        "region": "Житомирська",
+        "habitat": "ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 4112,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 33",
+        "scientific_name": "Animalus 33",
+        "region": "Рівненська",
+        "habitat": "степи",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 3983,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 34",
+        "scientific_name": "Animalus 34",
+        "region": "Житомирська",
+        "habitat": "ліси",
+        "conservation_status": "Уразливий",
+        "population_estimate": 4065,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 35",
+        "scientific_name": "Animalus 35",
+        "region": "Львівська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 2434,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 36",
+        "scientific_name": "Animalus 36",
+        "region": "Житомирська",
+        "habitat": "степи",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 2668,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 37",
+        "scientific_name": "Animalus 37",
+        "region": "Рівненська",
+        "habitat": "степи",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 3128,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 38",
+        "scientific_name": "Animalus 38",
+        "region": "Львівська",
+        "habitat": "степи",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 800,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 39",
+        "scientific_name": "Animalus 39",
+        "region": "Львівська",
+        "habitat": "озера",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 2671,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 40",
+        "scientific_name": "Animalus 40",
+        "region": "Рівненська",
+        "habitat": "степи",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 3671,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 41",
+        "scientific_name": "Animalus 41",
+        "region": "Житомирська",
+        "habitat": "ліси",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 4344,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 42",
+        "scientific_name": "Animalus 42",
+        "region": "Волинська",
+        "habitat": "степи",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 1301,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 43",
+        "scientific_name": "Animalus 43",
+        "region": "Рівненська",
+        "habitat": "степи",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 3344,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 44",
+        "scientific_name": "Animalus 44",
+        "region": "Волинська",
+        "habitat": "ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 4077,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 45",
+        "scientific_name": "Animalus 45",
+        "region": "Рівненська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 1800,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 46",
+        "scientific_name": "Animalus 46",
+        "region": "Волинська",
+        "habitat": "ліси",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 2880,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 47",
+        "scientific_name": "Animalus 47",
+        "region": "Волинська",
+        "habitat": "озера",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 1217,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 48",
+        "scientific_name": "Animalus 48",
+        "region": "Рівненська",
+        "habitat": "ліси",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1239,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 49",
+        "scientific_name": "Animalus 49",
+        "region": "Волинська",
+        "habitat": "степи",
+        "conservation_status": "Уразливий",
+        "population_estimate": 2812,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 50",
+        "scientific_name": "Animalus 50",
+        "region": "Житомирська",
+        "habitat": "луки",
+        "conservation_status": "Уразливий",
+        "population_estimate": 722,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 51",
+        "scientific_name": "Animalus 51",
+        "region": "Рівненська",
+        "habitat": "ліси",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1893,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 52",
+        "scientific_name": "Animalus 52",
+        "region": "Житомирська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 4021,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 53",
+        "scientific_name": "Animalus 53",
+        "region": "Львівська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 3337,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 54",
+        "scientific_name": "Animalus 54",
+        "region": "Рівненська",
+        "habitat": "ліси",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1324,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 55",
+        "scientific_name": "Animalus 55",
+        "region": "Житомирська",
+        "habitat": "болота",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 4028,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 56",
+        "scientific_name": "Animalus 56",
+        "region": "Волинська",
+        "habitat": "степи",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 3315,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 57",
+        "scientific_name": "Animalus 57",
+        "region": "Житомирська",
+        "habitat": "степи",
+        "conservation_status": "Уразливий",
+        "population_estimate": 4657,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 58",
+        "scientific_name": "Animalus 58",
+        "region": "Волинська",
+        "habitat": "степи",
+        "conservation_status": "Уразливий",
+        "population_estimate": 4264,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 59",
+        "scientific_name": "Animalus 59",
+        "region": "Житомирська",
+        "habitat": "болота",
+        "conservation_status": "Уразливий",
+        "population_estimate": 2388,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 60",
+        "scientific_name": "Animalus 60",
+        "region": "Рівненська",
+        "habitat": "степи",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 4537,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 61",
+        "scientific_name": "Animalus 61",
+        "region": "Львівська",
+        "habitat": "болота",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 4872,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 62",
+        "scientific_name": "Animalus 62",
+        "region": "Рівненська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 205,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 63",
+        "scientific_name": "Animalus 63",
+        "region": "Житомирська",
+        "habitat": "озера",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 3894,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 64",
+        "scientific_name": "Animalus 64",
+        "region": "Житомирська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 3681,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 65",
+        "scientific_name": "Animalus 65",
+        "region": "Волинська",
+        "habitat": "луки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 788,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 66",
+        "scientific_name": "Animalus 66",
+        "region": "Житомирська",
+        "habitat": "луки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 1212,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 67",
+        "scientific_name": "Animalus 67",
+        "region": "Житомирська",
+        "habitat": "степи",
+        "conservation_status": "Уразливий",
+        "population_estimate": 4325,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 68",
+        "scientific_name": "Animalus 68",
+        "region": "Львівська",
+        "habitat": "болота",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 4197,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 69",
+        "scientific_name": "Animalus 69",
+        "region": "Рівненська",
+        "habitat": "луки",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 4780,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 70",
+        "scientific_name": "Animalus 70",
+        "region": "Волинська",
+        "habitat": "озера",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 2913,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 71",
+        "scientific_name": "Animalus 71",
+        "region": "Львівська",
+        "habitat": "ліси",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 419,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 72",
+        "scientific_name": "Animalus 72",
+        "region": "Житомирська",
+        "habitat": "луки",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 450,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 73",
+        "scientific_name": "Animalus 73",
+        "region": "Волинська",
+        "habitat": "озера",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 2021,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 74",
+        "scientific_name": "Animalus 74",
+        "region": "Житомирська",
+        "habitat": "луки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 2064,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 75",
+        "scientific_name": "Animalus 75",
+        "region": "Рівненська",
+        "habitat": "озера",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 4997,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 76",
+        "scientific_name": "Animalus 76",
+        "region": "Житомирська",
+        "habitat": "луки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 202,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 77",
+        "scientific_name": "Animalus 77",
+        "region": "Львівська",
+        "habitat": "степи",
+        "conservation_status": "Уразливий",
+        "population_estimate": 4979,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 78",
+        "scientific_name": "Animalus 78",
+        "region": "Житомирська",
+        "habitat": "озера",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 2605,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 79",
+        "scientific_name": "Animalus 79",
+        "region": "Львівська",
+        "habitat": "болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 4774,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 80",
+        "scientific_name": "Animalus 80",
+        "region": "Волинська",
+        "habitat": "ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 274,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 81",
+        "scientific_name": "Animalus 81",
+        "region": "Волинська",
+        "habitat": "луки",
+        "conservation_status": "Уразливий",
+        "population_estimate": 1236,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 82",
+        "scientific_name": "Animalus 82",
+        "region": "Рівненська",
+        "habitat": "степи",
+        "conservation_status": "Уразливий",
+        "population_estimate": 1047,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 83",
+        "scientific_name": "Animalus 83",
+        "region": "Львівська",
+        "habitat": "степи",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 4339,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    },
+    {
+        "species": "Тварина 84",
+        "scientific_name": "Animalus 84",
+        "region": "Житомирська",
+        "habitat": "степи",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 4474,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 85",
+        "scientific_name": "Animalus 85",
+        "region": "Львівська",
+        "habitat": "луки",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 2581,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 86",
+        "scientific_name": "Animalus 86",
+        "region": "Львівська",
+        "habitat": "степи",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 657,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 87",
+        "scientific_name": "Animalus 87",
+        "region": "Волинська",
+        "habitat": "луки",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 3451,
+        "protected_areas": [
+            "Національний парк «Прип'ять-Стохід»"
+        ]
+    },
+    {
+        "species": "Тварина 88",
+        "scientific_name": "Animalus 88",
+        "region": "Волинська",
+        "habitat": "болота",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 4340,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 89",
+        "scientific_name": "Animalus 89",
+        "region": "Волинська",
+        "habitat": "ліси",
+        "conservation_status": "Неоцінений",
+        "population_estimate": 3385,
+        "protected_areas": [
+            "Заповідник «Рівненський природний»"
+        ]
+    },
+    {
+        "species": "Тварина 90",
+        "scientific_name": "Animalus 90",
+        "region": "Рівненська",
+        "habitat": "ліси",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 4570,
+        "protected_areas": [
+            "Шацький національний природний парк"
+        ]
+    }
+]
