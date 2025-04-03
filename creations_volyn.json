@@ -269,4 +269,85 @@
         "population_estimate": 55,
         "protected_areas": ["Кременецькі гори"]
     }
+        {
+        "species": "Гадюка звичайна",
+        "scientific_name": "Vipera berus",
+        "region": "Волинська",
+        "habitat": "ліси, болота",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 5000,
+        "protected_areas": ["Природний заповідник «Черемський»"]
+    },
+    {
+        "species": "Тритон гребінчастий",
+        "scientific_name": "Triturus cristatus",
+        "region": "Рівненська",
+        "habitat": "ставки, болота",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 1200,
+        "protected_areas": ["Рівненський природний заповідник"]
+    },
+    {
+        "species": "Журавель сірий",
+        "scientific_name": "Grus grus",
+        "region": "Житомирська",
+        "habitat": "луки, болота",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 60,
+        "protected_areas": ["Поліський природний заповідник"]
+    },
+    {
+        "species": "Соня лісова",
+        "scientific_name": "Dryomys nitedula",
+        "region": "Львівська",
+        "habitat": "листяні ліси",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 2500,
+        "protected_areas": ["Сколівські Бескиди"]
+    },
+    {
+        "species": "Кіт лісовий",
+        "scientific_name": "Felis silvestris",
+        "region": "Тернопільська",
+        "habitat": "густі ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 30,
+        "protected_areas": ["Національний парк «Кременецькі гори»"]
+    },
+    {
+        "species": "Равлик виноградний",
+        "scientific_name": "Helix pomatia",
+        "region": "Волинська",
+        "habitat": "ліси, сади",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 10000,
+        "protected_areas": []
+    },
+    {
+        "species": "Хохуля звичайна",
+        "scientific_name": "Desmana moschata",
+        "region": "Рівненська",
+        "habitat": "річки, болота",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 50,
+        "protected_areas": ["Заповідник «Прип'ять-Стохід»"]
+    },
+    {
+        "species": "Болотяна черепаха",
+        "scientific_name": "Emys orbicularis",
+        "region": "Волинська",
+        "habitat": "ставки, болота",
+        "conservation_status": "Уразливий",
+        "population_estimate": 500,
+        "protected_areas": ["Шацький національний природний парк"]
+    },
+    {
+        "species": "Ласка звичайна",
+        "scientific_name": "Mustela nivalis",
+        "region": "Тернопільська",
+        "habitat": "поля, ліси",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 7000,
+        "protected_areas": []
+    }
 ]
