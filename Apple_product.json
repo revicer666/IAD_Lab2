@@ -1,0 +1,122 @@
+[
+    {
+        "manufacturer": "Apple",
+        "model": "iPhone 13 Pro",
+        "category": "Smartphone",
+        "os": ["iOS"],
+        "serials": ["A2487", "A2631", "A2634"],
+        "release": "2021-09-14"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "iPhone SE (2022)",
+        "category": "Smartphone",
+        "os": ["iOS"],
+        "serials": ["A2595", "A2782", "A2784"],
+        "release": "2022-03-08"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "iPad Air (5th Gen)",
+        "category": "Tablet",
+        "os": ["iPadOS"],
+        "serials": ["A2588", "A2589", "A2591"],
+        "release": "2022-03-08"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "MacBook Pro 14\"",
+        "category": "Laptop",
+        "os": ["macOS"],
+        "serials": ["A2442", "A2485"],
+        "release": "2021-10-18"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "Apple Watch Series 8",
+        "category": "Smartwatch",
+        "os": ["watchOS"],
+        "serials": ["A2770", "A2771", "A2772"],
+        "release": "2022-09-07"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "AirPods Pro (2nd Gen)",
+        "category": "Headphones",
+        "os": [],
+        "serials": ["A2931", "A2699"],
+        "release": "2022-09-07"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "iMac 24\"",
+        "category": "Desktop",
+        "os": ["macOS"],
+        "serials": ["A2438", "A2439"],
+        "release": "2021-04-20"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "Mac mini (M2)",
+        "category": "Desktop",
+        "os": ["macOS"],
+        "serials": ["A2618"],
+        "release": "2023-01-17"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "Apple TV 4K (3rd Gen)",
+        "category": "Streaming Device",
+        "os": ["tvOS"],
+        "serials": ["A2843"],
+        "release": "2022-10-18"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "HomePod mini",
+        "category": "Smart Speaker",
+        "os": ["audioOS"],
+        "serials": ["A2290", "A2303"],
+        "release": "2020-11-06"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "iPhone 14 Plus",
+        "category": "Smartphone",
+        "os": ["iOS"],
+        "serials": ["A2882", "A2886", "A2888"],
+        "release": "2022-09-07"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "iPad Pro 12.9\" (6th Gen)",
+        "category": "Tablet",
+        "os": ["iPadOS"],
+        "serials": ["A2436", "A2437"],
+        "release": "2022-10-18"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "Mac Studio",
+        "category": "Desktop",
+        "os": ["macOS"],
+        "serials": ["A2615"],
+        "release": "2022-03-08"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "Apple Watch Ultra",
+        "category": "Smartwatch",
+        "os": ["watchOS"],
+        "serials": ["A2622"],
+        "release": "2022-09-07"
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "AirTag",
+        "category": "Accessory",
+        "os": [],
+        "serials": ["A2566", "A2567"],
+        "release": "2021-04-20"
+    }
+]
