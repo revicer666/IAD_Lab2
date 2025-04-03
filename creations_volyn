@@ -134,4 +134,139 @@
         "population_estimate": 9800,
         "protected_areas": ["Голосіївський ліс"]
     }
+    {
+        "species": "Сарна європейська",
+        "scientific_name": "Capreolus capreolus",
+        "region": "Тернопільська",
+        "habitat": "лісостеп",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 6200,
+        "protected_areas": ["Кременецькі гори"]
+    },
+    {
+        "species": "Лисиця руда",
+        "scientific_name": "Vulpes vulpes",
+        "region": "Волинська",
+        "habitat": "поля, ліси",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 3500,
+        "protected_areas": []
+    },
+    {
+        "species": "Борсук європейський",
+        "scientific_name": "Meles meles",
+        "region": "Рівненська",
+        "habitat": "ліси, яри",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 1800,
+        "protected_areas": ["Природний заповідник «Розточчя»"]
+    },
+    {
+        "species": "Куниця лісова",
+        "scientific_name": "Martes martes",
+        "region": "Львівська",
+        "habitat": "листяні ліси",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 2500,
+        "protected_areas": ["Сколівські Бескиди"]
+    },
+    {
+        "species": "Заєць сірий",
+        "scientific_name": "Lepus europaeus",
+        "region": "Житомирська",
+        "habitat": "поля, чагарники",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 8500,
+        "protected_areas": []
+    },
+    {
+        "species": "Пугач звичайний",
+        "scientific_name": "Bubo bubo",
+        "region": "Тернопільська",
+        "habitat": "скелі, ліси",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 45,
+        "protected_areas": ["Медобори"]
+    },
+    {
+        "species": "Орлан-білохвіст",
+        "scientific_name": "Haliaeetus albicilla",
+        "region": "Волинська",
+        "habitat": "водойми",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 28,
+        "protected_areas": ["Шацькі озера"]
+    },
+    {
+        "species": "Лелека білий",
+        "scientific_name": "Ciconia ciconia",
+        "region": "Рівненська",
+        "habitat": "луки, болота",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 320,
+        "protected_areas": ["Рівненський природний заповідник"]
+    },
+    {
+        "species": "Канюк звичайний",
+        "scientific_name": "Buteo buteo",
+        "region": "Львівська",
+        "habitat": "ліси, поля",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 2100,
+        "protected_areas": []
+    },
+    {
+        "species": "Дятел зелений",
+        "scientific_name": "Picus viridis",
+        "region": "Житомирська",
+        "habitat": "ліси",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 3800,
+        "protected_areas": ["Поліський заповідник"]
+    },
+    {
+        "species": "Лебідь-шипун",
+        "scientific_name": "Cygnus olor",
+        "region": "Волинська",
+        "habitat": "озера",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 180,
+        "protected_areas": ["Озеро Світязь"]
+    },
+    {
+        "species": "Норка європейська",
+        "scientific_name": "Mustela lutreola",
+        "region": "Рівненська",
+        "habitat": "річки",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 65,
+        "protected_areas": ["Прип'ять-Стохід"]
+    },
+    {
+        "species": "Тетерук",
+        "scientific_name": "Lyrurus tetrix",
+        "region": "Львівська",
+        "habitat": "лісостеп",
+        "conservation_status": "Уразливий",
+        "population_estimate": 210,
+        "protected_areas": ["Яворівський парк"]
+    },
+    {
+        "species": "Рись євразійська",
+        "scientific_name": "Lynx lynx",
+        "region": "Житомирська",
+        "habitat": "тайга",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 25,
+        "protected_areas": ["Поліський заповідник"]
+    },
+    {
+        "species": "Глушець",
+        "scientific_name": "Tetrao urogallus",
+        "region": "Тернопільська",
+        "habitat": "хвойні ліси",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 55,
+        "protected_areas": ["Кременецькі гори"]
+    }
 ]
