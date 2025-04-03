@@ -133,7 +133,7 @@
         "conservation_status": "Найменший ризик",
         "population_estimate": 9800,
         "protected_areas": ["Голосіївський ліс"]
-    }
+    },
     {
         "species": "Сарна європейська",
         "scientific_name": "Capreolus capreolus",
@@ -268,8 +268,8 @@
         "conservation_status": "Рідкісний",
         "population_estimate": 55,
         "protected_areas": ["Кременецькі гори"]
-    }
-        {
+    },
+    {
         "species": "Гадюка звичайна",
         "scientific_name": "Vipera berus",
         "region": "Волинська",
