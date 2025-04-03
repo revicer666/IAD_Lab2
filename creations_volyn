@@ -1,0 +1,137 @@
+[
+    {
+        "species": "Вовк звичайний",
+        "scientific_name": "Canis lupus",
+        "region": "Волинська",
+        "habitat": "ліси",
+        "conservation_status": "Уразливий",
+        "population_estimate": 120,
+        "protected_areas": ["Національний парк «Прип'ять-Стохід»"]
+    },
+    {
+        "species": "Рись євразійська",
+        "scientific_name": "Lynx lynx",
+        "region": "Львівська",
+        "habitat": "густі ліси",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 40,
+        "protected_areas": ["Національний парк «Сколівські Бескиди»"]
+    },
+    {
+        "species": "Зубр європейський",
+        "scientific_name": "Bison bonasus",
+        "region": "Рівненська",
+        "habitat": "широколистяні ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 85,
+        "protected_areas": ["Заповідник «Рівненський природний»"]
+    },
+    {
+        "species": "Бурий ведмідь",
+        "scientific_name": "Ursus arctos",
+        "region": "Житомирська",
+        "habitat": "тайга, мішані ліси",
+        "conservation_status": "Уразливий",
+        "population_estimate": 60,
+        "protected_areas": ["Поліський природний заповідник"]
+    },
+    {
+        "species": "Видра річкова",
+        "scientific_name": "Lutra lutra",
+        "region": "Волинська",
+        "habitat": "річки, озера",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 250,
+        "protected_areas": ["Шацький національний природний парк"]
+    },
+    {
+        "species": "Чорний лелека",
+        "scientific_name": "Ciconia nigra",
+        "region": "Тернопільська",
+        "habitat": "заболочені ліси",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 35,
+        "protected_areas": ["Медобори"]
+    },
+    {
+        "species": "Беркут",
+        "scientific_name": "Aquila chrysaetos",
+        "region": "Львівська",
+        "habitat": "гірські райони",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 15,
+        "protected_areas": ["Українські Карпати"]
+    },
+    {
+        "species": "Дріб",
+        "scientific_name": "Tetrao urogallus",
+        "region": "Рівненська",
+        "habitat": "хвойні ліси",
+        "conservation_status": "Рідкісний",
+        "population_estimate": 90,
+        "protected_areas": ["Природний заповідник «Розточчя»"]
+    },
+    {
+        "species": "Сіра чапля",
+        "scientific_name": "Ardea cinerea",
+        "region": "Волинська",
+        "habitat": "водно-болотні угіддя",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 1200,
+        "protected_areas": ["Озеро Світязь"]
+    },
+    {
+        "species": "Європейська косуля",
+        "scientific_name": "Capreolus capreolus",
+        "region": "Житомирська",
+        "habitat": "лісостеп",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 8500,
+        "protected_areas": ["Малинський природний парк"]
+    },
+    {
+        "species": "Білка звичайна",
+        "scientific_name": "Sciurus vulgaris",
+        "region": "Тернопільська",
+        "habitat": "широколистяні ліси",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 15000,
+        "protected_areas": ["Кременецькі гори"]
+    },
+    {
+        "species": "Форель струмкова",
+        "scientific_name": "Salmo trutta",
+        "region": "Львівська",
+        "habitat": "гірські річки",
+        "conservation_status": "Уразливий",
+        "population_estimate": 3200,
+        "protected_areas": ["Яворівський національний природний парк"]
+    },
+    {
+        "species": "Жук-олень",
+        "scientific_name": "Lucanus cervus",
+        "region": "Рівненська",
+        "habitat": "дубові ліси",
+        "conservation_status": "Під загрозою",
+        "population_estimate": 420,
+        "protected_areas": ["Дермансько-Острозький національний природний парк"]
+    },
+    {
+        "species": "Сова болотяна",
+        "scientific_name": "Asio flammeus",
+        "region": "Волинська",
+        "habitat": "луки, болота",
+        "conservation_status": "Майже під загрозою",
+        "population_estimate": 75,
+        "protected_areas": ["Природний заповідник «Черемський»"]
+    },
+    {
+        "species": "Вуж звичайний",
+        "scientific_name": "Natrix natrix",
+        "region": "Житомирська",
+        "habitat": "водойми, луки",
+        "conservation_status": "Найменший ризик",
+        "population_estimate": 9800,
+        "protected_areas": ["Голосіївський ліс"]
+    }
+]
